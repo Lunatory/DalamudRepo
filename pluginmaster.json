@@ -4,7 +4,6 @@
         "Name": "Chat Bubbles + PvP",
         "Punchline": "Enables in-game chat bubbles. Now PvP enabled.",
         "Description": "Using native chat bubble display, see who is talking about what in a more natural fashion. Now PvP enabled.",
-        "Changelog": "",
         "InternalName": "ChatBubbles",
         "AssemblyVersion": "2.1.7.3",
         "RepoUrl": "https://github.com/Lunatory/ChatBubbles",
