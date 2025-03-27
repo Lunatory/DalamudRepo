@@ -1,0 +1,26 @@
+{
+  "Author": "Haplo064, Khayle",
+  "Name": "Chat Bubbles + PvP",
+  "InternalName": "ChatBubbles",
+  "AssemblyVersion": "2.1.7.3",
+  "Punchline": "Enables in-game chat bubbles. Now PvP enabled.",
+  "Description": "Using native chat bubble display, see who is talking about what in a more natural fashion. Now PvP enabled.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Lunatory/ChatBubbles",
+  "CategoryTags": [
+    "UI",
+    "Roleplay",
+    "RP",
+    "Bubbles",
+    "Chat"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Haplo064/ChatBubbles/main/ChatBubbles/images/icon.png",
+  "ImageUrls": [ "https://raw.githubusercontent.com/Haplo064/ChatBubbles/main/ChatBubbles/images/image1.png", "https://raw.githubusercontent.com/Haplo064/ChatBubbles/main/ChatBubbles/images/image2.png" ],
+  "Changelog": "",
+  "AcceptsFeedback": false
+}
