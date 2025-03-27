@@ -5,7 +5,7 @@
         "Punchline": "Enables in-game chat bubbles. Now PvP enabled.",
         "Description": "Using native chat bubble display, see who is talking about what in a more natural fashion. Now PvP enabled.",
         "InternalName": "ChatBubbles",
-        "AssemblyVersion": "2.1.7.3.1",
+        "AssemblyVersion": "2.1.7.3",
         "RepoUrl": "https://github.com/Lunatory/ChatBubbles",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -21,13 +21,13 @@
             "https://raw.githubusercontent.com/Haplo064/ChatBubbles/main/ChatBubbles/images/image1.png",
             "https://raw.githubusercontent.com/Haplo064/ChatBubbles/main/ChatBubbles/images/image2.png"
         ],
-        "DownloadLinkInstall": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3.1/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1743038696"
+        "DownloadLinkTesting": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3/latest.zip",
+        "DownloadCount": 1,
+        "LastUpdate": "1743038759"
     },
     {
         "Author": "Avaflow, Ars Magna, Kelvin, Lunatory",
