@@ -26,7 +26,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdate": "1743040611"
     },
     {
@@ -52,5 +52,23 @@
         "DownloadLinkUpdate": "https://github.com/Lunatory/HrothRemover/releases/download/v2.0.2.4/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1743036358"
+    },
+    {
+        "Author": "ascclemens",
+        "Name": "Sound Filter",
+        "Punchline": "Filter any game sound.",
+        "Description": "Filters any sound or set of sounds from the game.\n\n- Remove a battle sound effect you don't like\n- Remove specific emote sounds\n- Remove specific background music\n\nIcons: filter by Kirby Wu from the Noun Project\nand Sound by Gregor Cresnar from the Noun Project",
+        "InternalName": "SoundFilter",
+        "AssemblyVersion": "1.4.7.1",
+        "RepoUrl": "https://github.com/Lunatory/SoundFilter",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "DownloadLinkInstall": "https://github.com/Lunatory/SoundFilter/releases/download/v1.4.7.1/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Lunatory/SoundFilter/releases/download/v1.4.7.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lunatory/SoundFilter/releases/download/v1.4.7.1/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1743071713"
     }
 ]
