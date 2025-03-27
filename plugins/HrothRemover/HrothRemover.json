@@ -2,10 +2,11 @@
     "Author": "Avaflow, Ars Magna, Kelvin, Lunatory",
     "Name": "HrothRemover",
     "InternalName": "HrothRemover",
-    "AssemblyVersion": "2.1.7.3",
+    "AssemblyVersion": "2.0.2.4",
     "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
     "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/noh on = enable plugin.\n/noh off = disable plugin.",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Lunatory/HrothRemover",
     "CategoryTags": [
         "Social"
     ],
