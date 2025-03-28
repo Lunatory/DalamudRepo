@@ -62,7 +62,7 @@
         "AssemblyVersion": "1.4.7.1",
         "RepoUrl": "https://github.com/Lunatory/SoundFilter",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 12,
         "DownloadLinkInstall": "https://github.com/Lunatory/SoundFilter/releases/download/v1.4.7.1/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
@@ -70,5 +70,25 @@
         "DownloadLinkUpdate": "https://github.com/Lunatory/SoundFilter/releases/download/v1.4.7.1/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1743071713"
+    },
+    {
+        "Author": "Xorus",
+        "Name": "EngageTimer",
+        "Punchline": "Filter any game sound.",
+        "Description": "Filters any sound or set of sounds from the game.\n\n- Remove a battle sound effect you don't like\n- Remove specific emote sounds\n- Remove specific background music\n\nIcons: filter by Kirby Wu from the Noun Project\nand Sound by Gregor Cresnar from the Noun Project",
+        "InternalName": "EngageTimer",
+        "AssemblyVersion": "9.0.0.0",
+        "RepoUrl": "https://github.com/Lunatory/DalamudRepo",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "IconUrl": "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/Lunatory/DalamudRepo/Plugins/EngageTimer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Lunatory/DalamudRepo/Plugins/EngageTimer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lunatory/DalamudRepo/Plugins/EngageTimer/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1743071713"
     }
+    
 ]
