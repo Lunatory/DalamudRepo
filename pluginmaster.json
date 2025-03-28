@@ -54,24 +54,6 @@
         "LastUpdate": "1743036358"
     },
     {
-        "Author": "ascclemens",
-        "Name": "Sound Filter",
-        "Punchline": "Filter any game sound.",
-        "Description": "Filters any sound or set of sounds from the game.\n\n- Remove a battle sound effect you don't like\n- Remove specific emote sounds\n- Remove specific background music\n\nIcons: filter by Kirby Wu from the Noun Project\nand Sound by Gregor Cresnar from the Noun Project",
-        "InternalName": "SoundFilter",
-        "AssemblyVersion": "1.4.7.1",
-        "RepoUrl": "https://github.com/Lunatory/SoundFilter",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
-        "DownloadLinkInstall": "https://github.com/Lunatory/SoundFilter/releases/download/v1.4.7.1/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/SoundFilter/releases/download/v1.4.7.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/SoundFilter/releases/download/v1.4.7.1/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1743071713"
-    },
-    {
         "Author": "Xorus",
         "Name": "EngageTimerBeta",
         "Punchline": "Complete combat countdown, pull timer and OBS overlay",
@@ -139,28 +121,6 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/Penumbra/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/Penumbra/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1743071713"
-    },
-    {
-        "Author": "Caraxi",
-        "Name": "Simple Tweaks Plugin Beta",
-        "InternalName": "SimpleTweaksPluginBeta",
-        "AssemblyVersion": "1.10.8.3",
-        "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/Lunatory/DalamudRepo",
-        "DalamudApiLevel": 12,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "Punchline": "This was supposed to be simple...",
-        "DownloadLinkInstall": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/SimpleTweaksPluginBeta/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/SimpleTweaksPluginBeta/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/SimpleTweaksPluginBeta/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1743071713"
     }
