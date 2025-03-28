@@ -82,11 +82,11 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
         "IconUrl": "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/EngageTimer/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/EngageTimerBeta/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/EngageTimer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/EngageTimer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/EngageTimerBeta/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/EngageTimerBeta/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1743071713"
     }
