@@ -107,7 +107,7 @@
         "Author": "Ottermandias, Adam, Wintermute",
         "Name": "Penumbra Beta",
         "InternalName": "Penumbra",
-        "AssemblyVersion": "9.0.0.1",
+        "AssemblyVersion": "9.0.0.2",
         "Description": "Runtime mod loader and manager.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Lunatory/DalamudRepo",
