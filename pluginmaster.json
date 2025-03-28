@@ -92,7 +92,7 @@
     },
     {
         "Author": "Ottermandias",
-        "Name": "Glamourer",
+        "Name": "Glamourer Beta",
         "InternalName": "Glamourer",
         "AssemblyVersion": "9.0.0.1",
         "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
@@ -123,7 +123,7 @@
     },
     {
         "Author": "Ottermandias, Adam, Wintermute",
-        "Name": "Penumbra",
+        "Name": "Penumbra Beta",
         "InternalName": "Penumbra",
         "AssemblyVersion": "9.0.0.1",
         "Description": "Runtime mod loader and manager.",
