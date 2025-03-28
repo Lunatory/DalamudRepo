@@ -71,57 +71,5 @@
         "DownloadLinkUpdate": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/EngageTimerBeta/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1743071713"
-    },
-    {
-        "Author": "Ottermandias",
-        "Name": "Glamourer Beta",
-        "InternalName": "Glamourer",
-        "AssemblyVersion": "9.0.0.1",
-        "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/Lunatory/DalamudRepo",
-        "Tags": [
-            "Appearance",
-            "Glamour",
-            "Race",
-            "Outfit",
-            "Armor",
-            "Clothes",
-            "Skins",
-            "Customization",
-            "Design",
-            "Character"
-        ],
-        "DalamudApiLevel": 12,
-        "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/master/images/icon.png",
-        "Punchline": "Change and save appearance of players.",
-        "DownloadLinkInstall": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/Glamourer/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/Glamourer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/Glamourer/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1743071713"
-    },
-    {
-        "Author": "Ottermandias, Adam, Wintermute",
-        "Name": "Penumbra Beta",
-        "InternalName": "Penumbra",
-        "AssemblyVersion": "9.0.0.2",
-        "Description": "Runtime mod loader and manager.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/Lunatory/DalamudRepo",
-        "Tags": [
-            "modding"
-        ],
-        "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
-        "DalamudApiLevel": 12,
-        "DownloadLinkInstall": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/Penumbra/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/Penumbra/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/Penumbra/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1743071713"
     }
 ]
