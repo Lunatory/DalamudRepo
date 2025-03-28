@@ -76,7 +76,7 @@
         "Name": "EngageTimer2",
         "Punchline": "Filter any game sound.",
         "Description": "Filters any sound or set of sounds from the game.\n\n- Remove a battle sound effect you don't like\n- Remove specific emote sounds\n- Remove specific background music\n\nIcons: filter by Kirby Wu from the Noun Project\nand Sound by Gregor Cresnar from the Noun Project",
-        "InternalName": "EngageTimer2",
+        "InternalName": "EngageTimer",
         "AssemblyVersion": "9.0.0.0",
         "RepoUrl": "https://github.com/Lunatory/DalamudRepo",
         "ApplicableVersion": "any",
