@@ -52,24 +52,5 @@
         "DownloadLinkUpdate": "https://github.com/Lunatory/HrothRemover/releases/download/v2.0.2.4/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1743036358"
-    },
-    {
-        "Author": "Xorus",
-        "Name": "EngageTimerBeta",
-        "Punchline": "Complete combat countdown, pull timer and OBS overlay",
-        "Description": " |-\n  Finally, display all the numbers when starting a countdown!\n  Comes with an accurate pull timer that starts when you or any of your party members enter combat.\n\n  Features :\n  - Big countdown that displays all the numbers\n  - Customizable big-number textures (default, yellow, WoW style or custom files)\n  - Display combat time in the Server Info Bar, and/or a floating window\n  - OBS browser-source compatible page with countdown and current combat duration\n\n  Why the OBS thing ? I like having a big stylized stopwatch in my private recordings and that's about it.\n  See repository for more info.\n\n  Feel free so send me feedback, bugs and potential improvements! Check the about page in the plugin settings for more\n  info. Please report urgent feedback on GitHub or XIVLauncher Discord's support thread for this plugin.",
-        "InternalName": "EngageTimerBeta",
-        "AssemblyVersion": "1.0.0.0",
-        "RepoUrl": "https://github.com/Lunatory/DalamudRepo",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
-        "IconUrl": "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/EngageTimerBeta/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/EngageTimerBeta/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/DalamudRepo/raw/refs/heads/master/plugins/EngageTimerBeta/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1743071713"
     }
 ]
