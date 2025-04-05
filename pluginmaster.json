@@ -36,7 +36,7 @@
         "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/noh on = enable plugin.\n/noh off = disable plugin.",
         "Changelog": "",
         "InternalName": "HrothRemover",
-        "AssemblyVersion": "2.0.2.5",
+        "AssemblyVersion": "2.0.2.7",
         "RepoUrl": "https://github.com/Lunatory/HrothRemover",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -45,12 +45,12 @@
         "DalamudApiLevel": 12,
         "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/Lunatory/HrothRemover/releases/download/v2.0.2.5/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Lunatory/HrothRemover/releases/download/v2.0.2.7/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/HrothRemover/releases/download/v2.0.2.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/HrothRemover/releases/download/v2.0.2.5/latest.zip",
-        "DownloadCount": 2,
-        "LastUpdate": "1743394005"
+        "DownloadLinkTesting": "https://github.com/Lunatory/HrothRemover/releases/download/v2.0.2.7/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lunatory/HrothRemover/releases/download/v2.0.2.7/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1743822880"
     }
 ]
