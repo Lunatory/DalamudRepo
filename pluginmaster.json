@@ -52,5 +52,23 @@
         "DownloadLinkUpdate": "https://github.com/Lunatory/HrothRemover/releases/download/v2.0.2.7/latest.zip",
         "DownloadCount": 3,
         "LastUpdate": "1743822880"
+    },
+    {
+        "Author": "Anna, Maintained by Caraxi, pvp edit by Lunatory",
+        "Name": "Peeping Tina",
+        "Punchline": "Shows who is currently or was previously targeting you.",
+        "Description": "Shows who is currently or was previously targeting you.",
+        "InternalName": "PeepingTina",
+        "AssemblyVersion": "1.7.21",
+        "RepoUrl": "https://github.com/lunatory/PeepingTina",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "DownloadLinkInstall": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1744409188"
     }
 ]
