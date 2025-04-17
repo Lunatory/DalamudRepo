@@ -1,22 +1,19 @@
 {
-    "Author": "Avaflow, Ars Magna, Kelvin, Lunatory",
-    "Name": "HrothRemover",
-    "InternalName": "HrothRemover",
-    "AssemblyVersion": "2.0.2.7",
-    "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
-    "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/noh on = enable plugin.\n/noh off = disable plugin.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Lunatory/HrothRemover",
-    "CategoryTags": [
-        "Social"
-    ],
-    "DalamudApiLevel": 12,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
-    "ImageUrls": [],
-    "Changelog": "",
-    "AcceptsFeedback": false
+  "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
+  "Name": "HrothRemover",
+  "InternalName": "HrothRemover",
+  "AssemblyVersion": "3.1.0",
+  "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/noh on = enable plugin.\n/noh off = disable plugin.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "hrothgar"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
+  "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
+  "AcceptsFeedback": true
 }
