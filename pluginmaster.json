@@ -30,28 +30,26 @@
         "LastUpdate": "1743040611"
     },
     {
-        "Author": "Avaflow, Ars Magna, Kelvin, Lunatory",
+        "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
         "Name": "HrothRemover",
         "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
         "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/noh on = enable plugin.\n/noh off = disable plugin.",
-        "Changelog": "",
         "InternalName": "HrothRemover",
-        "AssemblyVersion": "2.0.2.7",
-        "RepoUrl": "https://github.com/Lunatory/HrothRemover",
+        "AssemblyVersion": "3.0.0",
+        "RepoUrl": "https://github.com/lunatory/HrothRemover",
         "ApplicableVersion": "any",
-        "CategoryTags": [
-            "Social"
+        "Tags": [
+            "hrothgar"
         ],
         "DalamudApiLevel": 12,
         "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/Lunatory/HrothRemover/releases/download/v2.0.2.7/latest.zip",
+        "DownloadLinkInstall": "https://github.com/lunatory/HrothRemover/releases/download/v3.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/HrothRemover/releases/download/v2.0.2.7/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/HrothRemover/releases/download/v2.0.2.7/latest.zip",
-        "DownloadCount": 3,
-        "LastUpdate": "1743822880"
+        "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.0.0/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1744932039"
     },
     {
         "Author": "Anna, Maintained by Caraxi, pvp edit by Lunatory",
