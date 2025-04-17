@@ -35,7 +35,7 @@
         "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
         "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/noh on = enable plugin.\n/noh off = disable plugin.",
         "InternalName": "HrothRemover",
-        "AssemblyVersion": "3.0.0",
+        "AssemblyVersion": "3.0",
         "RepoUrl": "https://github.com/lunatory/HrothRemover",
         "ApplicableVersion": "any",
         "Tags": [
@@ -43,13 +43,13 @@
         ],
         "DalamudApiLevel": 12,
         "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
-        "DownloadLinkInstall": "https://github.com/lunatory/HrothRemover/releases/download/v3.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1744932039"
+        "LastUpdate": "1744932170"
     },
     {
         "Author": "Anna, Maintained by Caraxi, pvp edit by Lunatory",
