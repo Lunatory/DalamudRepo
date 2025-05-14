@@ -1,5 +1,27 @@
 [
     {
+        "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
+        "Name": "HrothRemover",
+        "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
+        "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/noh on = enable plugin.\n/noh off = disable plugin.",
+        "InternalName": "HrothRemover",
+        "AssemblyVersion": "3.0",
+        "RepoUrl": "https://github.com/lunatory/HrothRemover",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "hrothgar"
+        ],
+        "DalamudApiLevel": 12,
+        "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
+        "DownloadLinkInstall": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
+        "DownloadCount": 4,
+        "LastUpdate": "1744932170"
+    },
+    {
         "Author": "Anna, Maintained by Caraxi, pvp edit by Lunatory",
         "Name": "Peeping Tina",
         "Punchline": "Shows who is currently or was previously targeting you.",
@@ -70,27 +92,5 @@
         "DownloadLinkUpdate": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3/latest.zip",
         "DownloadCount": 3,
         "LastUpdate": "1743040611"
-    },
-    {
-        "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
-        "Name": "HrothRemover",
-        "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
-        "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/noh on = enable plugin.\n/noh off = disable plugin.",
-        "InternalName": "HrothRemover",
-        "AssemblyVersion": "3.0",
-        "RepoUrl": "https://github.com/lunatory/HrothRemover",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "hrothgar"
-        ],
-        "DalamudApiLevel": 12,
-        "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
-        "DownloadLinkInstall": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
-        "DownloadCount": 2,
-        "LastUpdate": "1744932170"
     }
 ]
