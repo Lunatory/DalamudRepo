@@ -40,6 +40,24 @@
         "LastUpdate": "1744409188"
     },
     {
+        "Author": "Infi, ash, Anna, Lunatory",
+        "Name": "Better Party Finder Plus",
+        "Punchline": "Use advanced Party Finder filter presets.",
+        "Description": "Filter the party finder better.\n\nAll vanilla filtering is available, plus:\n\n- Create filter presets to easily switch between\n- Whitelist/blacklist specific duties and categories\n- Add character names to hide PFs from\n- Remove PFs above maximum item level\n- Filter on item level range\n- Filter on multiple jobs and slots (ex. MCH + GNB available)\n- Now with more filters!",
+        "InternalName": "BetterPartyFinderPlus",
+        "AssemblyVersion": "1.5.6.1",
+        "RepoUrl": "https://github.com/Lunatory/BetterPartyFinderPlus",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "DownloadLinkInstall": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.6.1/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.6.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.6.1/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1748229423"
+    },
+    {
         "Author": "Lynesth",
         "Name": "Better Targeting System (PvP Enabled)",
         "Punchline": "A more intelligent targeting system for the game.",
