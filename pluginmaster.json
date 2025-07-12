@@ -1,5 +1,69 @@
 [
     {
+        "Author": "Anna, Maintained by Caraxi, pvp edit by Lunatory",
+        "Name": "Peeping Tina",
+        "Punchline": "Shows who is currently or was previously targeting you.",
+        "Description": "Shows who is currently or was previously targeting you.",
+        "InternalName": "PeepingTina",
+        "AssemblyVersion": "1.7.21",
+        "RepoUrl": "https://github.com/lunatory/PeepingTina",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "DownloadLinkInstall": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
+        "DownloadCount": 5,
+        "LastUpdate": "1744409188"
+    },
+    {
+        "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
+        "Name": "HrothRemover",
+        "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
+        "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/noh on = enable plugin.\n/noh off = disable plugin.",
+        "InternalName": "HrothRemover",
+        "AssemblyVersion": "3.0",
+        "RepoUrl": "https://github.com/lunatory/HrothRemover",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "hrothgar"
+        ],
+        "DalamudApiLevel": 12,
+        "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
+        "DownloadLinkInstall": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
+        "DownloadCount": 5,
+        "LastUpdate": "1744932170"
+    },
+    {
+        "Author": "Lynesth",
+        "Name": "Better Targeting System (PvP Enabled)",
+        "Punchline": "A more intelligent targeting system for the game.",
+        "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
+        "InternalName": "BetterTargetingSystemPvP",
+        "AssemblyVersion": "0.1.13.0",
+        "RepoUrl": "https://github.com/Lunatory/BetterTargetingSystemPvP",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Tab",
+            "Target",
+            "Targeting"
+        ],
+        "DalamudApiLevel": 12,
+        "IconUrl": "https://github.com/Lynesth/BetterTargetingSystem/raw/main/BetterTargetingSystem/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/Lunatory/BetterTargetingSystemPvP/releases/download/v0.1.13.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Lunatory/BetterTargetingSystemPvP/releases/download/v0.1.13.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lunatory/BetterTargetingSystemPvP/releases/download/v0.1.13.0/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1745276678"
+    },
+    {
         "Author": "Haplo064, Khayle",
         "Name": "Chat Bubbles + PvP",
         "Punchline": "Enables in-game chat bubbles. Now PvP enabled.",
@@ -30,46 +94,6 @@
         "LastUpdate": "1743040611"
     },
     {
-        "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
-        "Name": "HrothRemover",
-        "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
-        "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/noh on = enable plugin.\n/noh off = disable plugin.",
-        "InternalName": "HrothRemover",
-        "AssemblyVersion": "3.0",
-        "RepoUrl": "https://github.com/lunatory/HrothRemover",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "hrothgar"
-        ],
-        "DalamudApiLevel": 12,
-        "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
-        "DownloadLinkInstall": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
-        "DownloadCount": 5,
-        "LastUpdate": "1744932170"
-    },
-    {
-        "Author": "Anna, Maintained by Caraxi, pvp edit by Lunatory",
-        "Name": "Peeping Tina",
-        "Punchline": "Shows who is currently or was previously targeting you.",
-        "Description": "Shows who is currently or was previously targeting you.",
-        "InternalName": "PeepingTina",
-        "AssemblyVersion": "1.7.21",
-        "RepoUrl": "https://github.com/lunatory/PeepingTina",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
-        "DownloadLinkInstall": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
-        "DownloadCount": 5,
-        "LastUpdate": "1744409188"
-    },
-    {
         "Author": "Infi, ash, Anna, Lunatory",
         "Name": "Better Party Finder Plus",
         "Punchline": "Use advanced Party Finder filter presets.",
@@ -86,29 +110,5 @@
         "DownloadLinkUpdate": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.6.1/latest.zip",
         "DownloadCount": 4,
         "LastUpdate": "1748229423"
-    },
-    {
-        "Author": "Lynesth",
-        "Name": "Better Targeting System (PvP Enabled)",
-        "Punchline": "A more intelligent targeting system for the game.",
-        "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
-        "InternalName": "BetterTargetingSystemPvP",
-        "AssemblyVersion": "0.1.13.0",
-        "RepoUrl": "https://github.com/Lunatory/BetterTargetingSystemPvP",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Tab",
-            "Target",
-            "Targeting"
-        ],
-        "DalamudApiLevel": 12,
-        "IconUrl": "https://github.com/Lynesth/BetterTargetingSystem/raw/main/BetterTargetingSystem/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Lunatory/BetterTargetingSystemPvP/releases/download/v0.1.13.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/BetterTargetingSystemPvP/releases/download/v0.1.13.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/BetterTargetingSystemPvP/releases/download/v0.1.13.0/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1745276678"
     }
 ]
