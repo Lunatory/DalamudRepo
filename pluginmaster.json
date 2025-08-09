@@ -1,23 +1,5 @@
 [
     {
-        "Author": "Anna, Maintained by Caraxi, pvp edit by Lunatory",
-        "Name": "Peeping Tina",
-        "Punchline": "Shows who is currently or was previously targeting you.",
-        "Description": "Shows who is currently or was previously targeting you.",
-        "InternalName": "PeepingTina",
-        "AssemblyVersion": "1.7.21",
-        "RepoUrl": "https://github.com/lunatory/PeepingTina",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
-        "DownloadLinkInstall": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1744409188"
-    },
-    {
         "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
         "Name": "HrothRemover",
         "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
@@ -36,8 +18,26 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.0/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 5,
         "LastUpdate": "1744932170"
+    },
+    {
+        "Author": "Infi, ash, Anna, Lunatory",
+        "Name": "Better Party Finder Plus",
+        "Punchline": "Use advanced Party Finder filter presets.",
+        "Description": "Filter the party finder better.\n\nAll vanilla filtering is available, plus:\n\n- Create filter presets to easily switch between\n- Whitelist/blacklist specific duties and categories\n- Add character names to hide PFs from\n- Remove PFs above maximum item level\n- Filter on item level range\n- Filter on multiple jobs and slots (ex. MCH + GNB available)\n- Now with more filters!",
+        "InternalName": "BetterPartyFinderPlus",
+        "AssemblyVersion": "1.5.6.1",
+        "RepoUrl": "https://github.com/Lunatory/BetterPartyFinderPlus",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "DownloadLinkInstall": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.6.1/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.6.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.6.1/latest.zip",
+        "DownloadCount": 4,
+        "LastUpdate": "1748229423"
     },
     {
         "Author": "Lynesth",
@@ -62,6 +62,24 @@
         "DownloadLinkUpdate": "https://github.com/Lunatory/BetterTargetingSystemPvP/releases/download/v0.1.13.0/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1745276678"
+    },
+    {
+        "Author": "Anna, Maintained by Caraxi, pvp edit by Lunatory",
+        "Name": "Peeping Tina",
+        "Punchline": "Shows who is currently or was previously targeting you.",
+        "Description": "Shows who is currently or was previously targeting you.",
+        "InternalName": "PeepingTina",
+        "AssemblyVersion": "1.7.21",
+        "RepoUrl": "https://github.com/lunatory/PeepingTina",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "DownloadLinkInstall": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
+        "DownloadCount": 6,
+        "LastUpdate": "1744409188"
     },
     {
         "Author": "Haplo064, Khayle",
@@ -90,25 +108,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 5,
         "LastUpdate": "1743040611"
-    },
-    {
-        "Author": "Infi, ash, Anna, Lunatory",
-        "Name": "Better Party Finder Plus",
-        "Punchline": "Use advanced Party Finder filter presets.",
-        "Description": "Filter the party finder better.\n\nAll vanilla filtering is available, plus:\n\n- Create filter presets to easily switch between\n- Whitelist/blacklist specific duties and categories\n- Add character names to hide PFs from\n- Remove PFs above maximum item level\n- Filter on item level range\n- Filter on multiple jobs and slots (ex. MCH + GNB available)\n- Now with more filters!",
-        "InternalName": "BetterPartyFinderPlus",
-        "AssemblyVersion": "1.5.6.1",
-        "RepoUrl": "https://github.com/Lunatory/BetterPartyFinderPlus",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
-        "DownloadLinkInstall": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.6.1/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.6.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.6.1/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1748229423"
     }
 ]
