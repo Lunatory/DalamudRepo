@@ -36,7 +36,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.0/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 3,
         "LastUpdate": "1754994686"
     },
     {
@@ -62,6 +62,31 @@
         "DownloadLinkUpdate": "https://github.com/Lunatory/BetterTargetingSystemPvP/releases/download/v0.1.13.0/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1745276678"
+    },
+    {
+        "Author": "SaltyCog",
+        "Name": "Startup Commands",
+        "Punchline": "Perform various behaviors/commands right after logging into a character.",
+        "Description": "Perform various behaviors/commands right after logging into a character.",
+        "InternalName": "StartupCommands",
+        "AssemblyVersion": "1.1.1.1",
+        "RepoUrl": "https://github.com/Lunatory/StartupCommands",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "startup",
+            "login",
+            "commands",
+            "utility"
+        ],
+        "DalamudApiLevel": 13,
+        "IconUrl": "https://raw.githubusercontent.com/saltycog/ffxiv-startup-commands/master/icon.png",
+        "DownloadLinkInstall": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1754997504"
     },
     {
         "Author": "Anna, Maintained by Caraxi, pvp edit by Lunatory",
