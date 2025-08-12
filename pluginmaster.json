@@ -85,7 +85,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdate": "1754997504"
     },
     {
@@ -94,17 +94,17 @@
         "Punchline": "Shows who is currently or was previously targeting you.",
         "Description": "Shows who is currently or was previously targeting you.",
         "InternalName": "PeepingTina",
-        "AssemblyVersion": "1.7.21",
+        "AssemblyVersion": "1.7.22",
         "RepoUrl": "https://github.com/lunatory/PeepingTina",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
-        "DownloadLinkInstall": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
+        "DalamudApiLevel": 13,
+        "DownloadLinkInstall": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.22/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.21/latest.zip",
-        "DownloadCount": 6,
-        "LastUpdate": "1744409188"
+        "DownloadLinkTesting": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.22/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.22/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1754998812"
     },
     {
         "Author": "Haplo064, Khayle",
