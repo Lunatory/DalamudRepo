@@ -3,9 +3,9 @@
   "Name": "HrothRemover",
   "InternalName": "HrothRemover",
   "AssemblyVersion": "3.1.0",
-  "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/noh on = enable plugin.\n/noh off = disable plugin.",
+  "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/hr on = enable plugin.\n/hr off = disable plugin.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/lunatory/HrothRemober",
+  "RepoUrl": "https://github.com/lunatory/HrothRemover",
   "Tags": [
     "hrothgar"
   ],
