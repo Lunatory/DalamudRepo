@@ -5,6 +5,7 @@
   "AssemblyVersion": "1.1.1.1",
   "Description": "Perform various behaviors/commands right after logging into a character.",
   "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Lunatory/StartupCommands",
   "Tags": [
     "startup",
     "login",
