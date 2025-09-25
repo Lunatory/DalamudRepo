@@ -1,45 +1,5 @@
 [
     {
-        "Author": "Anna, Maintained by Caraxi, pvp edit by Lunatory",
-        "Name": "Peeping Tina",
-        "Punchline": "Shows who is currently or was previously targeting you.",
-        "Description": "Shows who is currently or was previously targeting you.",
-        "InternalName": "PeepingTina",
-        "AssemblyVersion": "1.7.22",
-        "RepoUrl": "https://github.com/lunatory/PeepingTina",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.22/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.22/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.22/latest.zip",
-        "DownloadCount": 6,
-        "LastUpdate": "1754998812"
-    },
-    {
-        "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
-        "Name": "HrothRemover",
-        "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
-        "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/hr on = enable plugin.\n/hr off = disable plugin.",
-        "InternalName": "HrothRemover",
-        "AssemblyVersion": "3.1.0",
-        "RepoUrl": "https://github.com/lunatory/HrothRemover",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "hrothgar"
-        ],
-        "DalamudApiLevel": 13,
-        "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
-        "DownloadLinkInstall": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.0/latest.zip",
-        "DownloadCount": 6,
-        "LastUpdate": "1754997851"
-    },
-    {
         "Author": "Haplo064, Khayle",
         "Name": "Chat Bubbles + PvP",
         "Punchline": "Enables in-game chat bubbles. Now PvP enabled.",
@@ -68,31 +28,6 @@
         "DownloadLinkUpdate": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3/latest.zip",
         "DownloadCount": 5,
         "LastUpdate": "1743040611"
-    },
-    {
-        "Author": "SaltyCog",
-        "Name": "Startup Commands",
-        "Punchline": "Perform various behaviors/commands right after logging into a character.",
-        "Description": "Perform various behaviors/commands right after logging into a character.",
-        "InternalName": "StartupCommands",
-        "AssemblyVersion": "1.1.1.1",
-        "RepoUrl": "https://github.com/Lunatory/StartupCommands",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "startup",
-            "login",
-            "commands",
-            "utility"
-        ],
-        "DalamudApiLevel": 13,
-        "IconUrl": "https://raw.githubusercontent.com/saltycog/ffxiv-startup-commands/master/icon.png",
-        "DownloadLinkInstall": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
-        "DownloadCount": 2,
-        "LastUpdate": "1754997504"
     },
     {
         "Author": "Infi, ash, Anna, Lunatory",
@@ -135,5 +70,70 @@
         "DownloadLinkUpdate": "https://github.com/Lunatory/BetterTargetingSystemPvP/releases/download/v0.1.13.0/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1745276678"
+    },
+    {
+        "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
+        "Name": "HrothRemover",
+        "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
+        "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/hr on = enable plugin.\n/hr off = disable plugin.",
+        "InternalName": "HrothRemover",
+        "AssemblyVersion": "3.1.0",
+        "RepoUrl": "https://github.com/lunatory/HrothRemover",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "hrothgar"
+        ],
+        "DalamudApiLevel": 13,
+        "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
+        "DownloadLinkInstall": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.0/latest.zip",
+        "DownloadCount": 6,
+        "LastUpdate": "1754997851"
+    },
+    {
+        "Author": "Anna, Maintained by Caraxi, pvp edit by Lunatory",
+        "Name": "Peeping Tina",
+        "Punchline": "Shows who is currently or was previously targeting you.",
+        "Description": "Shows who is currently or was previously targeting you.",
+        "InternalName": "PeepingTina",
+        "AssemblyVersion": "1.7.22",
+        "RepoUrl": "https://github.com/lunatory/PeepingTina",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 13,
+        "DownloadLinkInstall": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.22/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.22/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.22/latest.zip",
+        "DownloadCount": 6,
+        "LastUpdate": "1754998812"
+    },
+    {
+        "Author": "SaltyCog",
+        "Name": "Startup Commands",
+        "Punchline": "Perform various behaviors/commands right after logging into a character.",
+        "Description": "Perform various behaviors/commands right after logging into a character.",
+        "InternalName": "StartupCommands",
+        "AssemblyVersion": "1.1.1.1",
+        "RepoUrl": "https://github.com/Lunatory/StartupCommands",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "startup",
+            "login",
+            "commands",
+            "utility"
+        ],
+        "DalamudApiLevel": 13,
+        "IconUrl": "https://raw.githubusercontent.com/saltycog/ffxiv-startup-commands/master/icon.png",
+        "DownloadLinkInstall": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
+        "DownloadCount": 2,
+        "LastUpdate": "1754997504"
     }
 ]
