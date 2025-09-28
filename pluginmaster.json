@@ -26,7 +26,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 5,
         "LastUpdate": "1743040611"
     },
     {
@@ -44,7 +44,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.0/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 5,
         "LastUpdate": "1754994686"
     },
     {
@@ -90,7 +90,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.0/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 6,
         "LastUpdate": "1754997851"
     },
     {
@@ -108,7 +108,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.22/latest.zip",
         "DownloadLinkUpdate": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.22/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 6,
         "LastUpdate": "1754998812"
     },
     {
@@ -133,7 +133,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 2,
         "LastUpdate": "1754997504"
     }
 ]
