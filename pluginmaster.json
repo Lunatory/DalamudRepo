@@ -1,35 +1,5 @@
 [
     {
-        "Author": "Haplo064, Khayle",
-        "Name": "Chat Bubbles + PvP",
-        "Punchline": "Enables in-game chat bubbles. Now PvP enabled.",
-        "Description": "Using native chat bubble display, see who is talking about what in a more natural fashion. Now PvP enabled.",
-        "InternalName": "ChatBubblesPvP",
-        "AssemblyVersion": "2.1.7.3",
-        "RepoUrl": "https://github.com/Lunatory/ChatBubbles",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "UI",
-            "Roleplay",
-            "RP",
-            "Bubbles",
-            "Chat"
-        ],
-        "DalamudApiLevel": 12,
-        "IconUrl": "https://raw.githubusercontent.com/Haplo064/ChatBubbles/main/ChatBubbles/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/Haplo064/ChatBubbles/main/ChatBubbles/images/image1.png",
-            "https://raw.githubusercontent.com/Haplo064/ChatBubbles/main/ChatBubbles/images/image2.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/ChatBubbles/releases/download/v2.1.7.3/latest.zip",
-        "DownloadCount": 5,
-        "LastUpdate": "1743040611"
-    },
-    {
         "Author": "Infi, ash, Anna, Lunatory",
         "Name": "Better Party Finder Plus",
         "Punchline": "Use advanced Party Finder filter presets.",
