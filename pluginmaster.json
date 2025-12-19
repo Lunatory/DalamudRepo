@@ -5,17 +5,17 @@
         "Punchline": "Use advanced Party Finder filter presets.",
         "Description": "Filter the party finder better.\n\nAll vanilla filtering is available, plus:\n\n- Create filter presets to easily switch between\n- Whitelist/blacklist specific duties and categories\n- Add character names to hide PFs from\n- Remove PFs above maximum item level\n- Filter on item level range\n- Filter on multiple jobs and slots (ex. MCH + GNB available)\n- Now with more filters!",
         "InternalName": "BetterPartyFinderPlus",
-        "AssemblyVersion": "1.5.7.0",
+        "AssemblyVersion": "1.5.7.2",
         "RepoUrl": "https://github.com/Lunatory/BetterPartyFinderPlus",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.0/latest.zip",
+        "DalamudApiLevel": 14,
+        "DownloadLinkInstall": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.2/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.0/latest.zip",
-        "DownloadCount": 6,
-        "LastUpdate": "1754994686"
+        "DownloadLinkTesting": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.2/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1766187041"
     },
     {
         "Author": "Lynesth",
@@ -60,7 +60,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.1/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 4,
         "LastUpdate": "1766181871"
     },
     {
