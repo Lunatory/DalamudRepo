@@ -2,14 +2,14 @@
   "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
   "Name": "HrothRemover",
   "InternalName": "HrothRemover",
-  "AssemblyVersion": "3.1.0",
+  "AssemblyVersion": "3.1.1",
   "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/hr on = enable plugin.\n/hr off = disable plugin.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/lunatory/HrothRemover",
   "Tags": [
     "hrothgar"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
