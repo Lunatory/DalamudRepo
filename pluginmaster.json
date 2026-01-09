@@ -18,30 +18,6 @@
         "LastUpdate": "1766187041"
     },
     {
-        "Author": "Lynesth",
-        "Name": "Better Targeting System (PvP Enabled)",
-        "Punchline": "A more intelligent targeting system for the game.",
-        "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
-        "InternalName": "BetterTargetingSystemPvP",
-        "AssemblyVersion": "0.1.13.0",
-        "RepoUrl": "https://github.com/Lunatory/BetterTargetingSystemPvP",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Tab",
-            "Target",
-            "Targeting"
-        ],
-        "DalamudApiLevel": 12,
-        "IconUrl": "https://github.com/Lynesth/BetterTargetingSystem/raw/main/BetterTargetingSystem/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/Lunatory/BetterTargetingSystemPvP/releases/download/v0.1.13.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/BetterTargetingSystemPvP/releases/download/v0.1.13.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/BetterTargetingSystemPvP/releases/download/v0.1.13.0/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1745276678"
-    },
-    {
         "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
         "Name": "HrothRemover",
         "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
@@ -62,48 +38,5 @@
         "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.1/latest.zip",
         "DownloadCount": 11,
         "LastUpdate": "1766181871"
-    },
-    {
-        "Author": "Anna, Maintained by Caraxi, pvp edit by Lunatory",
-        "Name": "Peeping Tina",
-        "Punchline": "Shows who is currently or was previously targeting you.",
-        "Description": "Shows who is currently or was previously targeting you.",
-        "InternalName": "PeepingTina",
-        "AssemblyVersion": "1.7.22",
-        "RepoUrl": "https://github.com/lunatory/PeepingTina",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.22/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.22/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/PeepingTina/releases/download/v1.7.22/latest.zip",
-        "DownloadCount": 6,
-        "LastUpdate": "1754998812"
-    },
-    {
-        "Author": "SaltyCog",
-        "Name": "Startup Commands",
-        "Punchline": "Perform various behaviors/commands right after logging into a character.",
-        "Description": "Perform various behaviors/commands right after logging into a character.",
-        "InternalName": "StartupCommands",
-        "AssemblyVersion": "1.1.1.1",
-        "RepoUrl": "https://github.com/Lunatory/StartupCommands",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "startup",
-            "login",
-            "commands",
-            "utility"
-        ],
-        "DalamudApiLevel": 13,
-        "IconUrl": "https://raw.githubusercontent.com/saltycog/ffxiv-startup-commands/master/icon.png",
-        "DownloadLinkInstall": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/StartupCommands/releases/download/v1.1.1.1/latest.zip",
-        "DownloadCount": 2,
-        "LastUpdate": "1754997504"
     }
 ]
