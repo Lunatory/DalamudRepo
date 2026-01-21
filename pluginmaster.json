@@ -18,14 +18,14 @@
         "LastUpdate": "1766187041"
     },
     {
-        "Author": "Aireil",
+        "Author": "Aireil, Yukina",
         "Name": "FF Logs Viewer Plus",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
         "Changelog": "-2.4.2.1\n    Update default layout with M12S P2.\n.-2.4.2.0\n    Update default layout with Savage by WorstAquaPlayer, thank you!.\n-2.4.1.0\n    Unreal update and open with reliability improvements by WorstAquaPlayer, thank you!\u00b2\n-2.4.0.0\n    7.4 update by WorstAquaPlayer, thank you!",
         "InternalName": "FFLogsViewerPlus",
         "AssemblyVersion": "2.4.2.1",
-        "RepoUrl": "https://github.com/lunatory/FFLogsViewer",
+        "RepoUrl": "https://github.com/lunatory/FFLogsViewerPlus",
         "ApplicableVersion": "any",
         "Tags": [
             "FFLogs"
@@ -36,11 +36,11 @@
             "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
             "https://github.com/Aireil/FFLogsViewer/raw/master/res/image2.png"
         ],
-        "DownloadLinkInstall": "https://github.com/lunatory/FFLogsViewer/releases/download/v2.4.2.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/lunatory/FFLogsViewerPlus/releases/download/v2.4.2.1/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/FFLogsViewer/releases/download/v2.4.2.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/FFLogsViewer/releases/download/v2.4.2.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/lunatory/FFLogsViewerPlus/releases/download/v2.4.2.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/FFLogsViewerPlus/releases/download/v2.4.2.1/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1768968727"
     },
