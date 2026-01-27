@@ -18,6 +18,27 @@
         "LastUpdate": "1766187041"
     },
     {
+        "Author": "Zeffuro, Pie Lover",
+        "Name": "AetherBags",
+        "Punchline": "Never think too hard about your bags again!",
+        "Description": "This plugin replaces your inventory with it's own categorified inventory addon.",
+        "InternalName": "AetherBags",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/Zeffuro/AetherBags",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "ui"
+        ],
+        "DalamudApiLevel": 14,
+        "DownloadLinkInstall": "https://github.com/Zeffuro/AetherBags/releases/download/v1.0.0.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Zeffuro/AetherBags/releases/download/v1.0.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Zeffuro/AetherBags/releases/download/v1.0.0.0/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1769529993"
+    },
+    {
         "Author": "Aireil, Yukina",
         "Name": "FF Logs Viewer Plus",
         "Punchline": "View FF Logs ranking percentiles in-game.",
