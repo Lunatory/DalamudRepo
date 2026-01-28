@@ -24,17 +24,17 @@
         "Description": "This plugin replaces your inventory with it's own categorified inventory addon.",
         "InternalName": "AetherBags",
         "AssemblyVersion": "1.0.0.0",
-        "RepoUrl": "https://github.com/Zeffuro/AetherBags",
+        "RepoUrl": "https://github.com/Lunatory/AetherBags",
         "ApplicableVersion": "any",
         "Tags": [
             "ui"
         ],
         "DalamudApiLevel": 14,
-        "DownloadLinkInstall": "https://github.com/Zeffuro/AetherBags/releases/download/v1.0.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Lunatory/AetherBags/releases/download/v1.0.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Zeffuro/AetherBags/releases/download/v1.0.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Zeffuro/AetherBags/releases/download/v1.0.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Lunatory/AetherBags/releases/download/v1.0.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lunatory/AetherBags/releases/download/v1.0.0.0/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1769529993"
     },
