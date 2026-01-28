@@ -5,7 +5,7 @@
   "AssemblyVersion": "1.0.0.0",
   "Description": "This plugin replaces your inventory with it's own categorified inventory addon.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Zeffuro/AetherBags",
+  "RepoUrl": "https://github.com/Lunatory/AetherBags",
   "Tags": [
     "ui"
   ],
