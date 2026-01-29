@@ -78,7 +78,7 @@ jobs:
       - name: Commit
         uses: EndBug/add-and-commit@v9
         with:
-          add: ./plugins/${{ inputs.internal_name }}/${{ inputs.internal_name }}.json
+          add: ./plugins/${{ inputs.internal_name }}/${{ inputs.internal_name }}/${{ inputs.internal_name }}.json
           author_name: GitHub Action
           author_email: github-actions[bot]@users.noreply.github.com
           message: ${{ inputs.internal_name }} ${{ github.ref_name }}
