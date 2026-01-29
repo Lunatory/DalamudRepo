@@ -1,0 +1,19 @@
+{
+  "Author": "Zeffuro, Pie Lover",
+  "Name": "AetherBags",
+  "InternalName": "AetherBags",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "This plugin replaces your inventory with it's own categorified inventory addon.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Lunatory/AetherBags",
+  "Tags": [
+    "ui"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Never think too hard about your bags again!",
+  "AcceptsFeedback": true
+}
