@@ -86,6 +86,6 @@ jobs:
       - name: Create Release
         uses: softprops/action-gh-release@v2
         with:
-          files: ./${{ inputs.internal_name }}/latest.zip
+          files: ./plugins/${{ inputs.internal_name }}/latest.zip
           draft: false
           prerelease: false
