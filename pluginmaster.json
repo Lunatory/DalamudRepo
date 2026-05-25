@@ -27,6 +27,32 @@
         "LastUpdate": "1773127413"
     },
     {
+        "Author": "ReMakePlace Maintainers",
+        "Name": "ReMakePlace Plugin Unlocked",
+        "Punchline": "Automatically save & load furniture layouts in any house.",
+        "Description": "Automatically save & load interior and exterior house layouts. Import/export layouts from the ReMakePlace program.",
+        "InternalName": "ReMakePlacePluginUnlocked",
+        "AssemblyVersion": "7.5.1.0",
+        "RepoUrl": "https://github.com/Lunatory/ReMakePlacePluginUnlocked",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "makeplace",
+            "housing",
+            "furniture",
+            "remakeplace",
+            "re-makeplace"
+        ],
+        "DalamudApiLevel": 15,
+        "IconUrl": "https://raw.githubusercontent.com/ReMakePlace/Plugin/master/icon.png",
+        "DownloadLinkInstall": "https://github.com/Lunatory/ReMakePlacePluginUnlocked/releases/download/v7.5.1.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Lunatory/ReMakePlacePluginUnlocked/releases/download/v7.5.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lunatory/ReMakePlacePluginUnlocked/releases/download/v7.5.1.0/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1779749700"
+    },
+    {
         "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
         "Name": "HrothRemover",
         "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
