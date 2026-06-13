@@ -53,8 +53,9 @@
         "Name": "GlamourousGallery",
         "Punchline": "A gallery for Glamourer designs.",
         "Description": "Browse Glamourer designs as a thumbnail gallery, apply them quickly, and organize them with favorites, hidden entries, tags, and custom cropped thumbnails. Use /glamgallery to open the gallery.",
+        "Changelog": "-1.1.0.0\n    Added Tag Colors. Added folder support. Added favorites button. Added settings for sorting favorites. Fixed overwriting thumbnails.",
         "InternalName": "GlamourousGallery",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.1.0.0",
         "RepoUrl": "https://github.com/lunatory/GlamourousGallery",
         "ApplicableVersion": "any",
         "Tags": [
@@ -63,13 +64,13 @@
             "glamour"
         ],
         "DalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.0.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.0.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.0.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.0/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1781337361"
+        "LastUpdate": "1781345364"
     },
     {
         "Author": "ReMakePlace Maintainers",
