@@ -1,0 +1,20 @@
+{
+  "Author": "Uki",
+  "Name": "GlamourousGallery",
+  "InternalName": "GlamourousGallery",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Browse Glamourer designs as a thumbnail gallery, apply them quickly, and organize them with favorites, hidden entries, tags, and custom cropped thumbnails. Use /glamgallery to open the gallery.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "glamourer",
+    "gallery",
+    "glamour"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A gallery for Glamourer designs.",
+  "AcceptsFeedback": true
+}
