@@ -2,7 +2,7 @@
   "Author": "Uki",
   "Name": "GlamourousGallery",
   "InternalName": "GlamourousGallery",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.1.0.0",
   "Description": "Browse Glamourer designs as a thumbnail gallery, apply them quickly, and organize them with favorites, hidden entries, tags, and custom cropped thumbnails. Use /glamgallery to open the gallery.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/lunatory/GlamourousGallery",
@@ -17,5 +17,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "A gallery for Glamourer designs.",
+  "Changelog": "-1.1.0.0\n    Added Tag Colors. Added folder support. Added favorites button. Added settings for sorting favorites. Fixed overwriting thumbnails.",
   "AcceptsFeedback": true
 }
