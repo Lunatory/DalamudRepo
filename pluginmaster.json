@@ -1,25 +1,27 @@
 [
     {
-        "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
-        "Name": "HrothRemover",
-        "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
-        "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/hr on = enable plugin.\n/hr off = disable plugin.",
-        "InternalName": "HrothRemover",
-        "AssemblyVersion": "3.1.3",
-        "RepoUrl": "https://github.com/lunatory/HrothRemover",
+        "Author": "Uki",
+        "Name": "GlamourousGallery",
+        "Punchline": "A gallery for Glamourer designs.",
+        "Description": "Browse Glamourer designs as a thumbnail gallery, apply them quickly, and organize them with favorites, hidden entries, tags, and custom cropped thumbnails. Use /glamgallery to open the gallery.",
+        "Changelog": "-v1.1.0..3\n   Now saves last used sort and filter options per-character.\n-v1.1.0.2\n   Untagged entries now show last in tag sort mode.\n-1.1.0.1\n    Added hex field to color picker. Folder footer option now shows full path. Added sorting by tags. Added setting to remove favorite prefix.\n\n-1.1.0.0\n    Added Tag Colors. Added folder support. Added favorites button. Added settings for sorting favorites. Fixed overwriting thumbnails.",
+        "InternalName": "GlamourousGallery",
+        "AssemblyVersion": "1.1.0.3",
+        "RepoUrl": "https://github.com/lunatory/GlamourousGallery",
         "ApplicableVersion": "any",
         "Tags": [
-            "hrothgar"
+            "glamourer",
+            "gallery",
+            "glamour"
         ],
         "DalamudApiLevel": 15,
-        "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
-        "DownloadLinkInstall": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.3/latest.zip",
+        "DownloadLinkInstall": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.3/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.3/latest.zip",
-        "DownloadCount": 14,
-        "LastUpdate": "1778374837"
+        "DownloadLinkTesting": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.3/latest.zip",
+        "DownloadCount": 2,
+        "LastUpdate": "1782119882"
     },
     {
         "Author": "Aireil, Yukina",
@@ -49,28 +51,26 @@
         "LastUpdate": "1773127413"
     },
     {
-        "Author": "Uki",
-        "Name": "GlamourousGallery",
-        "Punchline": "A gallery for Glamourer designs.",
-        "Description": "Browse Glamourer designs as a thumbnail gallery, apply them quickly, and organize them with favorites, hidden entries, tags, and custom cropped thumbnails. Use /glamgallery to open the gallery.",
-        "Changelog": "-v1.1.0..3\n   Now saves last used sort and filter options per-character.\n-v1.1.0.2\n   Untagged entries now show last in tag sort mode.\n-1.1.0.1\n    Added hex field to color picker. Folder footer option now shows full path. Added sorting by tags. Added setting to remove favorite prefix.\n\n-1.1.0.0\n    Added Tag Colors. Added folder support. Added favorites button. Added settings for sorting favorites. Fixed overwriting thumbnails.",
-        "InternalName": "GlamourousGallery",
-        "AssemblyVersion": "1.1.0.3",
-        "RepoUrl": "https://github.com/lunatory/GlamourousGallery",
+        "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
+        "Name": "HrothRemover",
+        "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
+        "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/hr on = enable plugin.\n/hr off = disable plugin.",
+        "InternalName": "HrothRemover",
+        "AssemblyVersion": "3.1.3",
+        "RepoUrl": "https://github.com/lunatory/HrothRemover",
         "ApplicableVersion": "any",
         "Tags": [
-            "glamourer",
-            "gallery",
-            "glamour"
+            "hrothgar"
         ],
         "DalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.3/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
+        "DownloadLinkInstall": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.3/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.3/latest.zip",
-        "DownloadCount": 2,
-        "LastUpdate": "1782119882"
+        "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.3/latest.zip",
+        "DownloadCount": 14,
+        "LastUpdate": "1778374837"
     },
     {
         "Author": "ReMakePlace Maintainers",
