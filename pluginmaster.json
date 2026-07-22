@@ -1,76 +1,21 @@
 [
     {
-        "Author": "Uki",
-        "Name": "GlamourousGallery",
-        "Punchline": "A gallery for Glamourer designs.",
-        "Description": "Browse Glamourer designs as a thumbnail gallery, apply them quickly, and organize them with favorites, hidden entries, tags, and custom cropped thumbnails. Use /glamgallery to open the gallery.",
-        "Changelog": "-v1.1.0..3\n   Now saves last used sort and filter options per-character.\n-v1.1.0.2\n   Untagged entries now show last in tag sort mode.\n-1.1.0.1\n    Added hex field to color picker. Folder footer option now shows full path. Added sorting by tags. Added setting to remove favorite prefix.\n\n-1.1.0.0\n    Added Tag Colors. Added folder support. Added favorites button. Added settings for sorting favorites. Fixed overwriting thumbnails.",
-        "InternalName": "GlamourousGallery",
-        "AssemblyVersion": "1.1.0.3",
-        "RepoUrl": "https://github.com/lunatory/GlamourousGallery",
+        "Author": "Infi, ash, Anna, Lunatory",
+        "Name": "Better Party Finder Plus",
+        "Punchline": "Use advanced Party Finder filter presets.",
+        "Description": "Filter the party finder better.\n\nAll vanilla filtering is available, plus:\n\n- Create filter presets to easily switch between\n- Whitelist/blacklist specific duties and categories\n- Add character names to hide PFs from\n- Remove PFs above maximum item level\n- Filter on item level range\n- Filter on multiple jobs and slots (ex. MCH + GNB available)\n- Now with more filters!",
+        "InternalName": "BetterPartyFinderPlus",
+        "AssemblyVersion": "1.5.7.3",
+        "RepoUrl": "https://github.com/Lunatory/BetterPartyFinderPlus",
         "ApplicableVersion": "any",
-        "Tags": [
-            "glamourer",
-            "gallery",
-            "glamour"
-        ],
         "DalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.3/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.3/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.3/latest.zip",
-        "DownloadCount": 2,
-        "LastUpdate": "1782119882"
-    },
-    {
-        "Author": "Aireil, Yukina",
-        "Name": "FF Logs Viewer Plus",
-        "Punchline": "View FF Logs ranking percentiles in-game.",
-        "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "-2.4.2.3\n    Improve FF Logs related errors logging and handling.\n-2.4.2.2\n    Fix a potential crash.\n-2.4.2.1\n    Update default layout with M12S P2.\n.-2.4.2.0\n    Update default layout with Savage by WorstAquaPlayer, thank you!.\n-2.4.1.0\n    Unreal update and open with reliability improvements by WorstAquaPlayer, thank you!\u00b2\n-2.4.0.0\n    7.4 update by WorstAquaPlayer, thank you!",
-        "InternalName": "FFLogsViewerPlus",
-        "AssemblyVersion": "2.4.2.4",
-        "RepoUrl": "https://github.com/lunatory/FFLogsViewerPlus",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "FFLogs"
-        ],
-        "DalamudApiLevel": 14,
-        "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
-        "ImageUrls": [
-            "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
-            "https://github.com/Aireil/FFLogsViewer/raw/master/res/image2.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/lunatory/FFLogsViewerPlus/releases/download/v2.4.2.4/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/FFLogsViewerPlus/releases/download/v2.4.2.4/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/FFLogsViewerPlus/releases/download/v2.4.2.4/latest.zip",
-        "DownloadCount": 2,
-        "LastUpdate": "1773127413"
-    },
-    {
-        "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
-        "Name": "HrothRemover",
-        "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
-        "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/hr on = enable plugin.\n/hr off = disable plugin.",
-        "InternalName": "HrothRemover",
-        "AssemblyVersion": "3.1.3",
-        "RepoUrl": "https://github.com/lunatory/HrothRemover",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "hrothgar"
-        ],
-        "DalamudApiLevel": 15,
-        "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
-        "DownloadLinkInstall": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.3/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.3/latest.zip",
-        "DownloadCount": 14,
-        "LastUpdate": "1778374837"
+        "DownloadLinkTesting": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.3/latest.zip",
+        "DownloadCount": 3,
+        "LastUpdate": "1778492107"
     },
     {
         "Author": "ReMakePlace Maintainers",
@@ -99,21 +44,76 @@
         "LastUpdate": "1779749700"
     },
     {
-        "Author": "Infi, ash, Anna, Lunatory",
-        "Name": "Better Party Finder Plus",
-        "Punchline": "Use advanced Party Finder filter presets.",
-        "Description": "Filter the party finder better.\n\nAll vanilla filtering is available, plus:\n\n- Create filter presets to easily switch between\n- Whitelist/blacklist specific duties and categories\n- Add character names to hide PFs from\n- Remove PFs above maximum item level\n- Filter on item level range\n- Filter on multiple jobs and slots (ex. MCH + GNB available)\n- Now with more filters!",
-        "InternalName": "BetterPartyFinderPlus",
-        "AssemblyVersion": "1.5.7.3",
-        "RepoUrl": "https://github.com/Lunatory/BetterPartyFinderPlus",
+        "Author": "Uki",
+        "Name": "GlamourousGallery",
+        "Punchline": "A gallery for Glamourer designs.",
+        "Description": "Browse Glamourer designs as a thumbnail gallery, apply them quickly, and organize them with favorites, hidden entries, tags, and custom cropped thumbnails. Use /glamgallery to open the gallery.",
+        "Changelog": "-v1.1.0..3\n   Now saves last used sort and filter options per-character.\n-v1.1.0.2\n   Untagged entries now show last in tag sort mode.\n-1.1.0.1\n    Added hex field to color picker. Folder footer option now shows full path. Added sorting by tags. Added setting to remove favorite prefix.\n\n-1.1.0.0\n    Added Tag Colors. Added folder support. Added favorites button. Added settings for sorting favorites. Fixed overwriting thumbnails.",
+        "InternalName": "GlamourousGallery",
+        "AssemblyVersion": "1.1.0.3",
+        "RepoUrl": "https://github.com/lunatory/GlamourousGallery",
         "ApplicableVersion": "any",
+        "Tags": [
+            "glamourer",
+            "gallery",
+            "glamour"
+        ],
         "DalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.3/latest.zip",
+        "DownloadLinkInstall": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.3/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Lunatory/BetterPartyFinderPlus/releases/download/v1.5.7.3/latest.zip",
-        "DownloadCount": 3,
-        "LastUpdate": "1778492107"
+        "DownloadLinkTesting": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/GlamourousGallery/releases/download/v1.1.0.3/latest.zip",
+        "DownloadCount": 2,
+        "LastUpdate": "1782119882"
+    },
+    {
+        "Author": "Avaflow, Ars Magna, Kelvin, Terralyn",
+        "Name": "HrothRemover",
+        "Punchline": "Turn all Hrothgars into Miqo'te (or other races!)",
+        "Description": "Turn all Hrothgars into Miqo'te (or other races!)\n/hr on = enable plugin.\n/hr off = disable plugin.",
+        "InternalName": "HrothRemover",
+        "AssemblyVersion": "3.1.3",
+        "RepoUrl": "https://github.com/lunatory/HrothRemover",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "hrothgar"
+        ],
+        "DalamudApiLevel": 15,
+        "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
+        "DownloadLinkInstall": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.3/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/HrothRemover/releases/download/v3.1.3/latest.zip",
+        "DownloadCount": 14,
+        "LastUpdate": "1778374837"
+    },
+    {
+        "Author": "Aireil, Yukina",
+        "Name": "FF Logs Viewer Plus",
+        "Punchline": "View FF Logs ranking percentiles in-game.",
+        "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
+        "Changelog": "-2.4.2.3\n    Improve FF Logs related errors logging and handling.\n-2.4.2.2\n    Fix a potential crash.\n-2.4.2.1\n    Update default layout with M12S P2.\n.-2.4.2.0\n    Update default layout with Savage by WorstAquaPlayer, thank you!.\n-2.4.1.0\n    Unreal update and open with reliability improvements by WorstAquaPlayer, thank you!\u00b2\n-2.4.0.0\n    7.4 update by WorstAquaPlayer, thank you!",
+        "InternalName": "FFLogsViewerPlus",
+        "AssemblyVersion": "2.4.2.4",
+        "RepoUrl": "https://github.com/lunatory/FFLogsViewerPlus",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "FFLogs"
+        ],
+        "DalamudApiLevel": 14,
+        "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
+        "ImageUrls": [
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/image2.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/lunatory/FFLogsViewerPlus/releases/download/v2.4.2.4/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/lunatory/FFLogsViewerPlus/releases/download/v2.4.2.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lunatory/FFLogsViewerPlus/releases/download/v2.4.2.4/latest.zip",
+        "DownloadCount": 2,
+        "LastUpdate": "1773127413"
     }
 ]
