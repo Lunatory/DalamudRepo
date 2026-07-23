@@ -5,7 +5,7 @@
   "AssemblyVersion": "0.0.0.1",
   "Description": "Limits FPS when the game is in the background, supports a separate minimized FPS target, and can suppress world rendering while minimized. Use /bgperf to open settings or /minimize to minimize the game window.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Lunatory/BackgroundPerformance",
+  "RepoUrl": "https://github.com/Lunatory/Background-Performance",
   "Tags": [
     "performance",
     "fps",
