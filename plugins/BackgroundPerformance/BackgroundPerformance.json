@@ -1,0 +1,20 @@
+{
+  "Author": "uki",
+  "Name": "Background Performance",
+  "InternalName": "BackgroundPerformance",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Limits FPS when the game is in the background, supports a separate minimized FPS target, and can suppress world rendering while minimized. Use /bgperf to open settings or /minimize to minimize the game window.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "performance",
+    "fps",
+    "energy"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Limits FFXIV FPS in the background and while minimized.",
+  "AcceptsFeedback": true
+}
